@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨‍💻 I’m currently working as Data Scientist at Hella Gutman in Germany;
+- 👨‍💻 I’m a Data Scientist currently looking for a position in Switzerland;
 - 🌱 I’m currently doing the Data Engineering Nanodegree from Udacity; 
 - 🤓 I’m addicted to Kaggle and looking forward to colaborate in competitions 👊;
 - 💬 Ask me about anything, I am happy to help;
