@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤓 I’m addicted to Kaggle and looking forward to colaborate in competitions 👊;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in chemical engineering;
-- 📫 How to reach me: pedrocouto39@gmail.com;
+- 📫 How to reach me: couto.pdo@gmail.com;
 
 **Languages and Tools:** 
   
